@@ -23,7 +23,7 @@ Agentic AI goes beyond this. Instead of just following fixed rules, it can think
 
 In scientific research, for example, an agentic AI system could analyze vast datasets, develop its own hypotheses, and run experiments to refine its understanding. A real-world use case is in pharmaceuticals, where companies use agentic AI for drug discovery through molecular simulation, rapid screening, and analysis—achieving levels of speed and accuracy that were once considered impossible. 
 
-This makes agentic AI much more powerful, capable of solving difficult problems and driving innovation.
+This makes Agentic AI much more powerful, capable of solving difficult problems and driving innovation.
 
 ## Multi-Agent Systems
 
