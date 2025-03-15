@@ -15,6 +15,12 @@ sidebar_label: 'Introduction'
 
 This document is the transcript for a presentation on how intelligent apps are evolving into this new frontier of agentic AI apps, and what this really means for developers. 
 
+### Slides
+
+[Download PDF](https://raw.githubusercontent.com/markharrison/doc-agentic-ai-apps/main/slides/Mark%20Harrison%20-%20IntelligentApps%20v07march25.pdf)
+
+### Video 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/teaEdQFT084" 
 title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 

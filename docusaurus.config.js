@@ -66,7 +66,7 @@ const config = {
             label: 'Building Agentic AI Apps',
           },
           {
-            href: 'https://github.com/markharrison/lab-dotnet-aspire',
+            href: 'https://github.com/markharrison/doc-agentic-ai-apps',
             label: 'GitHub',
             position: 'right'
           },
