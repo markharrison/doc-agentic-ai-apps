@@ -7,7 +7,7 @@ const darkTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DotNet Aspire - Hands on Lab',
+  title: 'Building Agentic AI Apps',
   tagline: 'xxxx',
   url: 'https://markharrison.io',
   baseUrl: '/doc-agentic-ai-apps/',
